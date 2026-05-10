@@ -7,30 +7,30 @@ A real-time Formula 1 race strategy simulation built with Python and Streamlit. 
 ### Setup & Driver Selection
 | Random Mode | Manual Mode (Driver Card) |
 |:-----------:|:-------------------------:|
-| ![Setup - Random](img/img6.png) | ![Setup - Manual](img/img7.png) |
+| ![Setup - Random](img/img1.png) | ![Setup - Manual](img/img2.png) |
 
 ### Strategy Selection
-![Strategy Screen](img/img8.png)
+![Strategy Screen](img/img3.png)
 
 ### Lights Out
-![Lights Out](img/img9.png)
+![Lights Out](img/img4.png)
 
 ### Live Race
 | Track Map + Timing Tower | Race Controls & Tactics |
 |:------------------------:|:------------------------:|
-| ![Live Race](img/img1.png) | ![Race Controls](img/img10.png) |
+| ![Live Race](img/img6.png) | ![Race Controls](img/img5.png) |
 
-![Post Lap-1 Standings](img/img11.png)
+![Post Lap-1 Standings](img/img7.png)
 
 ### Engineer Panel
-![Engineer Panel](img/img2.png)
+![Engineer Panel](img/img8.png)
 
 ### Analysis Tab
-![Lap Times & Summary](img/img4.png)
-![Gap to Leader & Stints](img/img5.png)
+![Lap Times & Summary](img/img10.png)
+![Gap to Leader & Stints](img/img11.png)
 
 ### Race End
-![Race Finished](img/img3.png)
+![Race Finished](img/img9.png)
 
 ## Features
 
