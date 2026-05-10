@@ -7,13 +7,13 @@ A real-time Formula 1 race strategy simulation built with Python and Streamlit. 
 ### Setup & Driver Selection
 | Random Mode | Manual Mode (Driver Card) |
 |:-----------:|:-------------------------:|
-| ![Setup - Random](img/img6.png) | ![Setup - Manual](img/img7.png) |
+|![Setup - Manual](img/img2.png) |
 
 ### Strategy Selection
-![Strategy Screen](img/img8.png)
+![Strategy Screen](img/img3.png)
 
 ### Lights Out
-![Lights Out](img/img9.png)
+![Lights Out](img/img4.png)
 
 ### Live Race
 | Track Map + Timing Tower | Race Controls & Tactics |
