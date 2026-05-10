@@ -2,6 +2,8 @@
 
 A real-time Formula 1 race strategy simulation built with Python and Streamlit. Play as a race engineer managing your driver through a full Grand Prix — tire strategy, push levels, pit windows, and live telemetry.
 
+**[▶ Live Demo](https://f1-race-engineer-dugzyydht9g5aqsfk2nqld.streamlit.app/)**
+
 ## Screenshots
 
 ### Setup & Driver Selection
